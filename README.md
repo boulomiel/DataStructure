@@ -26,7 +26,7 @@ Welcome to the **Data Structures in Swift** package! This library provides effic
 2. Go to **File > Add Packages...**.
 3. Enter the following URL:
    ```plaintext
-   https://github.com/yourusername/DataStructuresSwift.git
+   https://github.com/boulomiel/DataStructure.git
    ```
 4. Choose the desired version or branch, and click **Add Package**.
 
@@ -34,7 +34,7 @@ Alternatively, add this to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/boulomiel/DataStructures.git", from: "1.0.0")
+    .package(url: "https://github.com/boulomiel/DataStructure.git", from: "1.0.0")
 ]
 ```
 
